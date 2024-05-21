@@ -1,0 +1,3 @@
+﻿  linearEquations.cpp
+C:\Users\adamb\Desktop\Metody Numeryczne\projects\project2\linearEquations\linearEquations.cpp(117,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  linearEquations.vcxproj -> C:\Users\adamb\Desktop\Metody Numeryczne\projects\project2\linearEquations\x64\Debug\linearEquations.exe

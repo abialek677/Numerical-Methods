@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\matrixClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|solutionrelative:matrixClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\computationMethods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|solutionrelative:computationMethods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\matrixClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|solutionrelative:matrixClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|solutionrelative:func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\linearEquations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|solutionrelative:linearEquations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\computationMethods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|solutionrelative:computationMethods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA4432CE-51DC-4541-9DCA-5F480DFE787B}|linearEquations.vcxproj|solutionrelative:func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "matrixClass.cpp",
+              "DocumentMoniker": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\matrixClass.cpp",
+              "RelativeDocumentMoniker": "matrixClass.cpp",
+              "ToolTip": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\matrixClass.cpp",
+              "RelativeToolTip": "matrixClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T05:25:35.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "matrixClass.h",
+              "DocumentMoniker": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\matrixClass.h",
+              "RelativeDocumentMoniker": "matrixClass.h",
+              "ToolTip": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\matrixClass.h",
+              "RelativeToolTip": "matrixClass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T05:24:52.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "func.cpp",
+              "DocumentMoniker": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\func.cpp",
+              "RelativeDocumentMoniker": "func.cpp",
+              "ToolTip": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\func.cpp",
+              "RelativeToolTip": "func.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T10:50:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "func.h",
+              "DocumentMoniker": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\func.h",
+              "RelativeDocumentMoniker": "func.h",
+              "ToolTip": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\func.h",
+              "RelativeToolTip": "func.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T10:50:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "computationMethods.cpp",
+              "DocumentMoniker": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\computationMethods.cpp",
+              "RelativeDocumentMoniker": "computationMethods.cpp",
+              "ToolTip": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\computationMethods.cpp",
+              "RelativeToolTip": "computationMethods.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T08:36:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "computationMethods.h",
+              "DocumentMoniker": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\computationMethods.h",
+              "RelativeDocumentMoniker": "computationMethods.h",
+              "ToolTip": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\computationMethods.h",
+              "RelativeToolTip": "computationMethods.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T08:34:44.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "linearEquations.cpp",
+              "DocumentMoniker": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\linearEquations.cpp",
+              "RelativeDocumentMoniker": "linearEquations.cpp",
+              "ToolTip": "C:\\Users\\adamb\\Desktop\\Metody Numeryczne\\projects\\project2\\linearEquations\\linearEquations.cpp",
+              "RelativeToolTip": "linearEquations.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T13:44:54.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

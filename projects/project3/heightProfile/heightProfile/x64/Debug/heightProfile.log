@@ -1,0 +1,4 @@
+﻿  heightProfile.cpp
+C:\Users\adamb\Desktop\Metody Numeryczne\projects\project3\heightProfile\heightProfile.cpp(142,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adamb\Desktop\Metody Numeryczne\projects\project3\heightProfile\heightProfile.cpp(287,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  heightProfile.vcxproj -> C:\Users\adamb\Desktop\Metody Numeryczne\projects\project3\heightProfile\x64\Debug\heightProfile.exe

@@ -1,0 +1,9 @@
+﻿  heightProfile.cpp
+C:\Users\adamb\Desktop\Metody Numeryczne\projects\project3\heightProfile\heightProfile.cpp(153,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adamb\Desktop\Metody Numeryczne\projects\project3\heightProfile\heightProfile.cpp(301,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  12 of 557 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  heightProfile.vcxproj -> C:\Users\adamb\Desktop\Metody Numeryczne\projects\project3\heightProfile\x64\Release\heightProfile.exe
