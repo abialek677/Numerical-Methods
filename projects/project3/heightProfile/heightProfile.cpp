@@ -143,7 +143,7 @@ void saveData(const vector<double>& x_values, const vector<double>& y_values, co
     string n_path = node_count + nodes_path;
     ofstream nodesFile(n_path);
 
-    for (size_t i = 0; i < nodes.size(); i++) {
+    for (int i = 0; i < nodes.size(); i++) {
 		nodesFile << nodes[i].x << " " << nodes[i].y << '\n';
 	}
 }
