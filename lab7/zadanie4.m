@@ -37,7 +37,7 @@ function [integration_error, Nt, ft_5, xr, yr, yrmax] = zadanie4()
         integration_error(i) = abs(integration_result-reference_value);
     end
     loglog(Nt, integration_error);
-    xlabel('argument')
-    ylabel('value')
+    xlabel('N')
+    ylabel('Integration error')
     title('Integration error values')
 end
