@@ -39,5 +39,5 @@ function [integration_error, Nt, ft_5, xr, yr, yrmax] = zadanie4()
     loglog(Nt, integration_error);
     xlabel('N')
     ylabel('Integration error')
-    title('Integration error values')
+    title('Integration error values for Monte Carlo method')
 end

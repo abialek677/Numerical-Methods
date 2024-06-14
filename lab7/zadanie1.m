@@ -25,5 +25,5 @@ function [integration_error, Nt, ft_5, integral_1000] = zadanie1()
     loglog(Nt, integration_error);
     xlabel('N')
     ylabel('Integration error')
-    title('Integration error values')
+    title('Integration error values for rectangles method')
 end
