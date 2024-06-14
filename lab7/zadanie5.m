@@ -21,12 +21,11 @@ function [lake_volume, x, y, z, zmin] = zadanie5()
 
     depth = get_lake_depth(x,y);
     n1 = 0;
-    %for i=1:N
-    %    if z(i) > depth
-    %        n1 = n1+1;
-    %    end
-    %end
-    n1 = sum(z > depth);
+    for i=1:N
+        if z(i) > depth(i)
+            n1 = n1+1;
+        end
+    end
     
     V = 100*100*75;
 
